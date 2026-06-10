@@ -2,7 +2,7 @@
 
 **Strategic advisor to early-stage VLSI and chip startups** — bringing 20+ years inside the chip to founders building AI-native hardware for memory, power, and compute efficiency.
 
-**[malamasti.com](https://malamasti.com)** · [LinkedIn](https://www.linkedin.com/in/malamasti/) · info@malamasti.com · Bengaluru, India
+**[malamasti.com](https://malamasti.com)** · [LinkedIn](https://www.linkedin.com/in/malamasti/) · mala@malamasti.com · Bengaluru, India
 
 ---
 
