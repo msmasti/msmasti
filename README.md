@@ -17,7 +17,7 @@ NUM is my advisory practice: a thinking partner for hardware founders and engine
 ## Background
 
 - **~12 years at Qualcomm (San Diego)** — MSM modem series across 2G–4G; wrote RTL and owned IPs end to end, from architecture through post-silicon.
-- **~8 years at Intel (Bangalore)** — Design Verification Engineering Manager *and* Program Manager running parallel IP programs for 9+ concurrent SoCs across Xeon server and Core Ultra client families, across global teams.
+- **7+ years at Intel (Bangalore)** — Design Verification Engineering Manager *and* Program Manager running parallel IP programs for 9+ concurrent SoCs across Xeon server and Core Ultra client families, across global teams.
 - **AI-assisted verification** — piloted log summarization, error extraction, and action-item capture; learned what AI accelerates, what it can't safely replace, and how to keep adoption auditable.
 - **Training & mentoring** — coaching university interns and full-time engineers into chip-delivery roles across ASIC companies.
 - M.S. Electrical Engineering, Virginia Tech · B.Tech, IIT Bombay · President of India Gold Medal, National Physics Olympiad.
